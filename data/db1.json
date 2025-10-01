@@ -1,0 +1,10 @@
+{
+
+    "hotelcards":[
+
+        {"v1":"Shelton Guest House","v2":"120 rviews","v3":"Delux Double Room","v4":"(2 Adults+1 child)","v5":"1 large double bed","v6":"PKR 7000/night","loc":"islamabad","id":"1"},
+        {"v1":"Shelton Guest House","v2":"120 rviews","v3":"Delux Double Room","v4":"(2 Adults+1 child)","v5":"1 large double bed","v6":"PKR 7000/night","loc":"islamabad","id":"2"},
+        {"v1":"Shelton Guest House","v2":"120 rviews","v3":"Delux Double Room","v4":"(2 Adults+1 child)","v5":"1 large double bed","v6":"PKR 7000/night","loc":"islamabad","id":"3"}
+    ]
+
+}
